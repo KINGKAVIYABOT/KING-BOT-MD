@@ -1,7 +1,7 @@
 {
   "name": "KING BOT - MD V1",
-  "description": "⎝🔥𝚱𝚰𝚴Ｇ🔥⎠ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴠ1.0.0",
-  "repository": "https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD",
+  "description": "⎝🔥𝚱𝚰𝚴Ｇ ＫＡＶＩＹＡ🔥 ᴠ1.0.0",
+  "repository": "https://github.com/KINGKAVIYABOT/KING-BOT-MD",
   "logo": "https://telegra.ph/file/24b9b8507613125d34bd1.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": { 
@@ -13,22 +13,22 @@
         "OWNER_NUMBER": {
             "description": "ඔයාගෙ නම්බර් එක දාන්න..",
             "required": true,
-            "value":"94729352830"
+            "value":"94716961129"
         },
         "OWNER_NAME": {
             "description": "ඔයාගෙ නම දාන්න...",
             "required": true,
-            "value":"ШHłТΞ HΛϾКΞЯS"
+            "value":"😍ＫＩＮＧ ＫＡＶＩＹＡ ＢＯＴ😘"
         },
         "BOT_NAME": {
             "description": "බොට්ගෙ නම...",
             "required": true,
-            "value":"[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘] ᎷᎠ"
+            "value":"[🇱🇰𝚱𝚰𝚴Ｇ ＫＡＶＩＹＡ🤘] ᎷᎠ"
         },
        "STICKER_PACKAGE": {
             "description": "sticker පැකේජ් name එක දාන්න...",
             "required": true,
-            "value":"[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]"
+            "value":"[🇱🇰𝚱𝚰𝚴Ｇ ＫＡＶＩＹＡ🤘]"
         },
         "SESSION_NAME": {
             "description": "වෙනස් කරන්නම එපා...",
@@ -38,22 +38,22 @@
         "SONG_DOWNLOAD": {
             "description": "",
             "required": true,
-            "value":"_*I'm Searching your song*_ ✨➾🔎"
+            "value":"*📥Ｉ'Ｍ ＤＯＷＮＬＯＡＤＩＮ ＹＯＵＲ ＳＯＮＧ....*"
         },
         "SOND_UPLOAD": {
             "description": "",
             "required": true,
-            "value":"_*I'm Uploading your song*_ ✨➾🎲"
+            "value":"*😍Ｉ'Ｍ ＵＰＬＯＡＤＩＮＧ ＹＯＵＲ ＳＯＮＧ....*"
         },
         "VIDEO_DOWNLOAD": {
             "description": "",
             "required": true,
-            "value":"_*I'm Bringing your song*_ ✨➾🔎"
+            "value":"*📥Ｉ'Ｍ ＢＲＩＮＧＩＮＧ ＹＯＵＲ ＶＩＤＥＯ...*"
         },
          "VIDEO_UPLOAD": {
             "description": "",
             "required": true,
-            "value":"_*I'm Uploading your song*_ ✨➾🎲"
+            "value":"*😍Ｉ'Ｍ ＵＰＬＯＡＤＩＮＧ ＹＯＵＲ ＶＩＤＥＯ...*"
         }
    },
     "buildpacks": [
